@@ -4,7 +4,7 @@ In statistics and machine learning, ensemble methods use multiple learning algor
 
 
 
-ISO 27005 (Risk Mnagement)
+## ISO 27005 (Risk Mnagement)
 ISO/IEC 27005 "Information technology — Security techniques — Information security risk management" is an international standard published by the International Organization for Standardization (ISO) and the International Electrotechnical Commission (IEC) providing good practice guidance on managing risks to information. It is a core part of the ISO/IEC 27000-series of standards, commonly known as ISO27k. 
 
 ISO/IEC 27005 does not specify or recommend specific risk management methods in detail. Instead it discusses the process in more general/overall terms, drawing on the generic risk management method described by ISO 31000:
@@ -15,7 +15,7 @@ ISO/IEC 27005 does not specify or recommend specific risk management methods in 
     Monitor the risks, risk treatments etc., identifying and responding appropriately to significant changes, issues/concerns or opportunities for improvement;
     Keep stakeholders (principally the organization's management) informed throughout the process.
     
-Dataset
+## Dataset
 
 CICIDS2017 datase is recognized as a popular network traffic dataset for intrusion detection challenges, which incuded varied normal and attacks Publicly available at: https://www.unb.ca/cic/datasets/ids-2017.html
 
